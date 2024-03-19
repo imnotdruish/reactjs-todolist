@@ -1,4 +1,8 @@
-# React + Vite
+# To-Do List Project
+
+This is a simple To-Do List application that you can add, edit, and remove list items. The site is currently just a demo for using React, Vite, and JavaScript to create an interactive page. The page will be added to later to improve on the functionality.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
